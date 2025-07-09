@@ -33,24 +33,33 @@ I'm a full-stack web developer who loves turning ideas into fully functional, us
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-###  GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=fikre2121&show_icons=true&theme=tokyonight" 
-    alt="fikre2121 GitHub Stats" 
-    width="350"
-  />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fikre2121&theme=tokyonight" 
-    alt="fikre2121 Streak Stats" 
-    width="350"
-  />
-</p>
 
 ---
+
+
+
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=fikre2121&theme=tokyonight" 
+        alt="fikre2121 GitHub Streak Stats" 
+        width="400"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=fikre2121&show_icons=true&theme=tokyonight" 
+        alt="fikre2121 GitHub Stats" 
+        width="400"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
