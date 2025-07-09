@@ -4,7 +4,7 @@ I'm a full-stack web developer who loves turning ideas into fully functional, us
 
 ---
 
-### 🧠 About Me
+### About Me
 - 🔭 Currently building full-stack applications using **React**, **Firebase**
 - ⚙️ Always exploring new technologies to expand my development toolkit
 - 💬 Ask me about **JavaScript**, **React**, **MySQL**, **Express.js**, or how to get started in web development
@@ -12,7 +12,7 @@ I'm a full-stack web developer who loves turning ideas into fully functional, us
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### 💻 Front-End
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,7 +27,7 @@ I'm a full-stack web developer who loves turning ideas into fully functional, us
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ⚙️ Tools & Platforms
+####  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -38,7 +38,7 @@ I'm a full-stack web developer who loves turning ideas into fully functional, us
 
 
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <table align="center">
   <tr>
