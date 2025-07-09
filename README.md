@@ -11,7 +11,7 @@ I'm a full-stack web developer who loves turning ideas into fully functional, us
 
 -💬 Ask me about **JavaScript**, **React**, **MySQL**, **Express.js**, or how to get started in web development
 
--📫 Reach me at: `fikre8186@gmail.com`
+-📫 Reach me at: `fikre.gebremariam2121@gmail.com`
 
 ---
 
