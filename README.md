@@ -5,7 +5,7 @@ I'm a full-stack web developer who loves turning ideas into fully functional, us
 ---
 
 ### About Me
--🔭 Currently building full-stack applications using **React**, **Firebase**
+-🔭 Currently building full-stack applications using **React**, **Node.js** and **Firebase**
 
 -⚙️ Always exploring new technologies to expand my development toolkit
 
