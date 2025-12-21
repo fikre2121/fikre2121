@@ -5,7 +5,7 @@ I'm a full-stack web developer who loves turning ideas into fully functional, us
 ---
 
 ### About Me
--🔭 Currently building full-stack applications using **React**, **Node.js** , **Express** and **Postgress**
+-🔭 Currently building full-stack applications using **React**, **Node.js** , **Express** and **Postgress**.
 
 -⚙️ Always exploring new technologies to expand my development toolkit
 
