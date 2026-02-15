@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Fikre!
 
-I'm a full-stack web developer who loves turning ideas into fully functional, user-friendly web applications. I'm always eager to learn, build, and collaborate on exciting projects
+I'm a full-stack web developer who loves turning ideas into fully functional, user-friendly web applications. I'm always eager to learn, build, and collaborate on exciting projects.
 
 ---
 
