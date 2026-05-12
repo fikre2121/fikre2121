@@ -2,7 +2,7 @@
 
 I’m a Full-Stack Developer passionate about building modern, scalable, and user-focused web applications. I enjoy transforming ideas into real-world digital experiences through clean code, creative problem-solving, and continuous learning.
 
-Currently, I am expanding my expertise in **AI integration** and developing **AI-powered applications** while strengthening my skills in modern technologies such as **Next.js**, backend architecture, and scalable full-stack development.
+Currently, I am expanding my expertise in **AI integration** and developing **AI-powered applications**.
 
 I am highly motivated to grow as a developer, explore emerging technologies, and contribute to impactful projects that create meaningful user experiences.
 
@@ -34,6 +34,7 @@ I am highly motivated to grow as a developer, explore emerging technologies, and
 
 #### 🔙 Back-End & Database
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
@@ -47,7 +48,6 @@ I am highly motivated to grow as a developer, explore emerging technologies, and
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
----
 
 ### GitHub Stats
 
