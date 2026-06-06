@@ -1,3 +1,11 @@
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications+%F0%9F%9A%80;Integrating+AI+into+modern+apps+%F0%9F%A4%96;Turning+ideas+into+real+products+%F0%9F%92%A1;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
+ 
+<br/>
+
+
+
 ## Hi there, I'm Fikre 👋
 
 I’m a Full-Stack Developer passionate about building modern, scalable, and user-focused web applications. I enjoy transforming ideas into real-world digital experiences through clean code, creative problem-solving, and continuous learning.
