@@ -8,7 +8,7 @@
 
 ## Hi there, I'm Fikre 👋
 
-I’m a Full-Stack Developer passionate about building modern, scalable, and user-focused web applications. I enjoy transforming ideas into real-world digital experiences through clean code, creative problem-solving, and continuous learning.
+I’m a Full-Stack Developer passionate about building modern, scalable, and user-focused web applications. I enjoy transforming ideas into real-world digital experiences through clean code, creative problem-solving, and continuous learning...
 
 Currently, I am expanding my expertise in **AI integration** and developing **AI-powered applications**.
 
