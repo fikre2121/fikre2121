@@ -23,7 +23,7 @@ I am highly motivated to grow as a developer, explore emerging technologies, and
 * ⚡ Focused on building responsive, performant, and user-friendly interfaces
 * 📚 Continuously improving my skills in software engineering and modern web development
 * 💡 Passionate about problem-solving, clean architecture, and writing maintainable code
-* 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Node.js**, **Express.js**, and full-stack development
+* 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Node.js**, **Express.js**, and full-stack development.
 * 📫 Reach me at: `fikre.gebremariam2121@gmail.com`
 
 ---
