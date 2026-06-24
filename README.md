@@ -19,7 +19,7 @@ I am highly motivated to grow as a developer, explore emerging technologies, and
 ### About Me
 
 * 🚀 Developing full-stack applications using **React**, **Next.js**, **Node.js**, **Express.js**, and **PostgreSQL**.
-* 🤖 Learning and integrating **AI technologies** into modern web applications
+* 🤖 Learning and integrating **AI technologies** into modern web applications.
 * ⚡ Focused on building responsive, performant, and user-friendly interfaces
 * 📚 Continuously improving my skills in software engineering and modern web development
 * 💡 Passionate about problem-solving, clean architecture, and writing maintainable code
