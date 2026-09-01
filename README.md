@@ -12,7 +12,7 @@ I’m a Full-Stack Developer passionate about building modern, scalable, and use
 
 Currently, I am expanding my expertise in **AI integration** and developing **AI-powered applications**.
 
-I am highly motivated to grow as a developer, explore emerging technologies, and contribute to impactful projects that create meaningful user experiences.
+I am highly motivated to grow as a developer, explore emerging technologies, and contribute to impactful projects that create meaningful user experiences
 
 ---
 
